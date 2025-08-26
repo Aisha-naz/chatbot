@@ -87,7 +87,7 @@ def main():
                 get_vector_store(text_chunks) # create vector store
                 st.success("Done")
         
-        st.write("---")
+        st.write("------")
 
     st.markdown(
         """
