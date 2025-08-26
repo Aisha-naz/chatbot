@@ -75,7 +75,7 @@ def main():
 
     with st.sidebar:
 
-        st.image("img/Robot.jpg")
+        st.image("img/robo.jpg")
         st.write("---")
         
         st.title("📁 PDF File's Section")
@@ -88,9 +88,6 @@ def main():
                 st.success("Done")
         
         st.write("---")
-        st.image("img/gkj.jpg")
-        st.write("ChatBot")  # add this line to display the image
-
 
     st.markdown(
         """
